@@ -1,0 +1,37 @@
+/* Card styling for profile */
+.profile-card {
+	max-width: 400px;
+	margin: 2em auto;
+	padding: 2em;
+	background: #fff;
+	border: 2px solid #e0e0e0;
+	border-radius: 16px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+	font-family: 'Segoe UI', 'Arial', sans-serif;
+}
+/* Blank stylesheet for profile card project */
+body {
+	background-color: #add8e6;
+}
+
+/* Adding styles for main heading and subheading */
+h1 {
+	font-size: 2.5em;
+	text-align: center;
+	margin-top: 1em;
+	color: #003366;
+}
+
+h2 {
+	font-size: 1.8em;
+	text-align: center;
+	margin-top: 0.5em;
+	color: #708090;
+}
+
+p {
+	font-size: 1.2em;
+	line-height: 1.7;
+	margin: 1em 0;
+	text-align: center;
+}
